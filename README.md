@@ -26,7 +26,7 @@ The rate of decreased inertia slows after K3. 4 is the best k value in both data
 
 What is the impact of using fewer features to cluster the data using K-Means?
 The following observations are made for the PCA Clusters:
-- Orange and blue clusters shows an increased overlap in the PCA Clusters.
+- Orange and blue clusters show an increased overlap in the PCA Clusters.
 - Increased overlap suggests a more spread out distribution.
 - Using reduced features causes a loss of information which affects cluster accuracy and outlier positioning.
 ![Scatter Plots](images/ClustersOD.png)
